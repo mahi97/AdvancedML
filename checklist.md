@@ -40,7 +40,7 @@
 - [ ] [[Huang et al.18]](http://proceedings.mlr.press/v80/huang18d/huang18d.pdf) Neural Autoregressive Flows, ICML 2018.  
 - [ ] [[Kingma and Dhariwal 18]](http://papers.nips.cc/paper/8224-glow-generative-flow-with-invertible-1x1-convolutions.pdf) Glow: Generative Flow with Invertible 1x1 Convolutions, NeurIPS 2018.  
 - [ ] [[Ho et al. 19]](http://proceedings.mlr.press/v97/ho19a/ho19a.pdf) Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design, ICML 2019.    
-- [ ] ***
+***
 - [ ] [[Chen et al. 19]](https://papers.nips.cc/paper/9183-residual-flows-for-invertible-generative-modeling.pdf) Residual Flows for Invertible Generative Modeling, NeurIPS 2019.  
 - [ ] [[Tran et al. 19]](https://papers.nips.cc/paper/9612-discrete-flows-invertible-generative-models-of-discrete-data.pdf) Discrete Flows: Invertible Generative
 - [ ] Models of Discrete Data, NeurIPS 2019.  
@@ -58,7 +58,7 @@
 - [ ] [[Brock et al. 19]](https://openreview.net/pdf?id=B1xsqj09Fm) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019.  
 - [ ] [[Karras et al. 19]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019.  
 - [ ] [[Xu et al. 19]](https://papers.nips.cc/paper/8953-modeling-tabular-data-using-conditional-gan.pdf) Modeling Tabular Data using Conditional GAN, NeurIPS 2019.   
-- [ ] ***
+***
 - [ ] [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020.  
 - [ ] [[Zhao et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4902-Paper.pdf) Feature Quantization Improves GAN Training, ICML 2020.  
 - [ ] [[Sinha et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1324-Paper.pdf) Small-GAN: Speeding up GAN Training using Core-Sets, ICML 2020.  
@@ -89,12 +89,11 @@
 ### Memory and Computation-Efficient Deep Learning
 - [ ] [[Han et al. 15]](https://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network.pdf) Learning both Weights and Connections for Efficient Neural Networks, NIPS 2015.  
 - [ ] [[Wen et al. 16]](https://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf) Learning Structured Sparsity in Deep Neural Networks, NIPS 2016  
-- [ ] [[Han et al. 16]](https://arxiv.org/pdf/1510.00149.pdf) Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding, ICLR 2016  
+- [ ] [[Han et al. 16]](https://arxiv.org/pdf/1510.00149.pdf) Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding, ICLR 2016 
 - [ ] [[Molchanov et al. 17]](https://arxiv.org/pdf/1701.05369.pdf) Variational Dropout Sparsifies Deep Neural Networks, ICML 2017  
 - [ ] [[Luizos et al. 17]](https://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning.pdf) Bayesian Compression for Deep Learning, NIPS 2017.  
 - [ ] [[Luizos et al. 18]](https://openreview.net/pdf?id=H1Y8hhg0b) Learning Sparse Neural Networks Through L0 Regularization, ICLR 2018.    
-- [ ] [[Howard et al. 18]](https://arxiv.org/pdf/1704.04861.pdf) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
-- [ ] Applications, CVPR 2018.    
+- [ ] [[Howard et al. 18]](https://arxiv.org/pdf/1704.04861.pdf) MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, CVPR 2018.    
 - [ ] [[Frankle and Carbin 19]](https://https://openreview.net/pdf?id=rJl-b3RcF7) The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks, ICLR 2019.     
 - [ ] [[Lee et al. 19]](https://openreview.net/pdf?id=B1VZqjAcYX) SNIP: Single-Shot Network Pruning Based On Connection Sensitivity, ICLR 2019.  
 - [ ] [[Liu et al. 19]](https://openreview.net/pdf?id=rJlnB3C5Ym) Rethinking the Value of Network Pruning, ICLR 2019.  
@@ -102,7 +101,7 @@
 - [ ] [[Morcos et al. 19]](https://papers.nips.cc/paper/8739-one-ticket-to-win-them-all-generalizing-lottery-ticket-initializations-across-datasets-and-optimizers.pdf) One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers, NeurIPS 2019.  
 ***
 - [ ] [[Renda et al. 20]](https://openreview.net/pdf?id=S1gSj0NKvB) Comparing Rewinding and Fine-tuning in Neural Network Pruning, ICLR 2020.  
-- [ ] [[Ye et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection, ICML 2020.  
+- [ ] [[Ye et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/1781-Paper.pdf) Good Subnetworks Provably Exist: Pruning via Greedy Forward Selection, ICML 2020. 
 - [ ] [[Frankle et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/5787-Paper.pdf) Linear Mode Connectivity and the Lottery Ticket Hypothesis, ICML 2020.  
 - [ ] [[Li et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/6626-Paper.pdf) Train Large, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers, ICML 2020.  
 - [ ] [[Nagel et al. 20]](https://proceedings.icml.cc/static/paper_files/icml/2020/4365-Paper.pdf) Up or Down? Adaptive Rounding for Post-Training Quantization, ICML 2020.  
@@ -238,7 +237,7 @@
 - [ ] [[McMahan et al. 17]](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) Communication-Efficient Learning of Deep Networks from Decentralized Data, AISTATS 2017.   
 - [ ] [[Smith et al. 17]](https://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf) Federated Multi-Task Learning, NIPS 2017.  
 - [ ] [[Li et al. 20]](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/176-Paper.pdf) Federated Optimization in Heterogeneous Networks, MLSys 2020.   
-- [ ] <!--[[Mohri et al. 19]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) Agnostic Federated Learning, ICML 2019.-->
+- [ ] [[Mohri et al. 19]](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) Agnostic Federated Learning, ICML 2019.
 - [ ] [[Yurochkin et al. 19]](http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf) Bayesian Nonparametric Federated Learning of Neural Networks, ICML 2019.  
 - [ ] [[Bonawitz et al. 19]](https://arxiv.org/pdf/1902.01046.pdf) Towards Federated Learning at Scale: System Design, MLSys 2019.  
 - [ ] [[Wang et al. 20]](https://openreview.net/forum?id=BkluqlSFDS) Federated Learning with Matched Averaging, ICLR 2020.  
