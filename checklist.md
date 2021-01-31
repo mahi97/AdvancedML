@@ -115,8 +115,8 @@
 - [ ] [[Snell et al. 17]](https://arxiv.org/pdf/1703.05175.pdf) Prototypical Networks for Few-shot Learning, NIPS 2017.  
 - [ ] [[Nichol et al. 18]](https://arxiv.org/pdf/1803.02999.pdf) On First-Order Meta-learning Algorithms, arXiv preprint, 2018.  
 - [ ] [[Lee and Choi 18]](https://arxiv.org/abs/1801.05558) Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace, ICML 2018.  
-- [x] [[Fine et al. 18]](https://papers.nips.cc/paper/2018/file/8e2c381d4dd04f1c55093f22c59c3a08-Paper.pdf) Probabilistic Model-Agnostic Meta-Learning
-- [x] [[Kim et al. 18]](https://arxiv.org/pdf/1806.03836) Bayesian Model-Agnostic Meta-Learning
+- [x] [[Fine et al. 18]](https://papers.nips.cc/paper/2018/file/8e2c381d4dd04f1c55093f22c59c3a08-Paper.pdf) Probabilistic Model-Agnostic Meta-Learning, NIPS 2018
+- [x] [[Kim et al. 18]](https://arxiv.org/pdf/1806.03836) Bayesian Model-Agnostic Meta-Learning, NIPS 2018
 - [ ] [[Liu et al. 19]](https://openreview.net/pdf?id=SyVuRiC5K7) Learning to Propagate Labels: Transductive Propagation Network for Few-shot Learning, ICLR 2019.    
 - [ ] [[Gordon et al. 19]](https://openreview.net/pdf?id=HkxStoC5F7) Meta-Learning Probabilistic Inference for Prediction, ICLR 2019.  
 - [ ] [[Ravi and Beatson 19]](https://openreview.net/pdf?id=rkgpy3C5tX) Amortized Bayesian Meta-Learning, ICLR 2019.    
